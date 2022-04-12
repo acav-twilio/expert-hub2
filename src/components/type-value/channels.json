@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_type_value_channels",
+  "info": {
+    "displayName": "Channels",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
