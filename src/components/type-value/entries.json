@@ -2,8 +2,16 @@
   "collectionName": "components_type_value_entries",
   "info": {
     "displayName": "entries",
-    "icon": "address-card"
+    "icon": "address-card",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "entry_id": {
+      "type": "string"
+    },
+    "copy": {
+      "type": "text"
+    }
+  }
 }
