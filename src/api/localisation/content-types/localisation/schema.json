@@ -12,10 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "language": {
+    "entry_id": {
       "type": "string"
     },
-    "entries": {
+    "entry_locales": {
       "displayName": "entries",
       "type": "component",
       "repeatable": false,

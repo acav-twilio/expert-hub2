@@ -1,13 +1,13 @@
 {
   "collectionName": "components_type_value_entries",
   "info": {
-    "displayName": "entries",
+    "displayName": "entry_locale",
     "icon": "address-card",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "entry_id": {
+    "language": {
       "type": "string"
     },
     "copy": {
