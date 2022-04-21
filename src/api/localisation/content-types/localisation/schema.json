@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "entry_id": {
+    "locale_lang": {
       "type": "string"
     },
     "entry_locales": {

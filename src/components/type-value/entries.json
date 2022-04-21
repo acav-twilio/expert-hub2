@@ -7,7 +7,7 @@
   },
   "options": {},
   "attributes": {
-    "language": {
+    "entry_id": {
       "type": "string"
     },
     "copy": {
